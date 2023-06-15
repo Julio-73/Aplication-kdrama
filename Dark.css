@@ -1,0 +1,33 @@
+#modo {
+  width: 20px;
+  font-size: 50px;
+  cursor: pointer;
+}
+
+.dark {
+  background-color: black;
+}
+
+.dark h1 {
+  color: white;
+}
+
+.dark h1:hover {
+  color: rgb(70, 50, 205);
+}
+
+.dark p {
+  color: aliceblue;
+}
+
+.dark h2 {
+  color: aliceblue;
+}
+
+.dark ul {
+  color: aliceblue;
+}
+
+.dark {
+  color: aliceblue;
+}

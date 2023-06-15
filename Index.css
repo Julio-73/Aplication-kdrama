@@ -1,0 +1,349 @@
+@import url("https://fonts.googleapis.com/css2?family=Black+And+White+Picture&family=Diplomata&family=Kablammo&family=Modak&family=Monoton&display=swap");
+
+h1 {
+  text-align: center;
+  font-family: "Kablammo", cursive;
+  font-weight: 600;
+  font-size: 4.5rem;
+
+  padding-bottom: 3rem;
+}
+
+h1:hover {
+  color: rgb(190, 166, 166);
+}
+
+.parrafo {
+  text-align: center;
+  text-justify: distribute;
+  font-family: "Black And White Picture", sans-serif;
+  font-size: 1.5rem;
+  padding-bottom: 3rem;
+  padding-top: 1.7rem;
+}
+
+p {
+  text-align: center;
+  text-justify: distribute;
+  font-family: "Black And White Picture", sans-serif;
+  font-size: 2rem;
+  padding-bottom: 2rem;
+  padding-top: 1.7rem;
+}
+
+.video-1 {
+  width: 100vh;
+}
+
+i {
+  color: aliceblue;
+  transition: 3s;
+}
+
+body {
+  background-color: rgb(227, 105, 126);
+}
+
+.div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagen {
+  text-align: center;
+}
+
+.img {
+  text-align: center;
+}
+
+img {
+  animation: floatImage 4s ease-in-out infinite;
+  width: 50vw;
+}
+
+@keyframes floatImage {
+  0% {
+    transform: translateY(+5px);
+  }
+
+  50% {
+    transform: translateX(-5px);
+  }
+
+  100% {
+    transform: translateY(+5px);
+  }
+}
+
+/* REPARTO*/
+
+h2 {
+  padding-bottom: 1rem;
+  padding-top: 5rem;
+  font-size: 2rem;
+  font-family: "Monoton", cursive;
+}
+
+ul li {
+  font-size: 1.5rem;
+  font-family: "Kablammo", cursive;
+}
+
+/* soundtrack videos */
+
+.videos {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  justify-content: center;
+  row-gap: 2rem;
+  text-align: center;
+  padding-bottom: 5rem;
+}
+
+.sound {
+  text-align: center;
+  padding-bottom: 5rem;
+  padding-top: 5rem;
+  font-size: 2.5rem;
+}
+
+/* CAPITULOS */
+
+.capitulo {
+  text-align: center;
+  padding-bottom: 5rem;
+  padding-top: 5rem;
+  font-size: 2.5rem;
+}
+
+.episodio-1 {
+  text-align: center;
+  font-size: 1.5rem;
+
+  padding-top: 2rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-2 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-3 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-4 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-5 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-6 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-7 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-8 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-9 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-10 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-11 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-12 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-13 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+.episodio-14 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-15 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-16 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-17 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+.episodio-18 {
+  text-align: center;
+  text-align: center;
+  font-size: 1.5rem;
+  padding-top: 5rem;
+  font-family: "Kablammo", cursive;
+}
+
+footer {
+  text-align: center;
+  text-justify: distribute;
+  padding-top: 6rem;
+  padding-bottom: 5px;
+  font-family: "Kablammo", cursive;
+
+  font-size: 13px;
+}
+
+iframe {
+}
+
+/* CONTAINER */
+
+.container {
+  padding: 2rem;
+}
+
+/* PUNTOS DE QUIEBRE */
+
+@media screen and (max-width: 1144px) {
+  .video-t1 {
+    width: 40vw;
+    height: 20vw;
+  }
+
+  .video-t2 {
+    width: 40vw;
+    height: 20vw;
+  }
+
+  .video-t3 {
+    width: 40vw;
+    height: 20vw;
+  }
+  .video-t4 {
+    width: 40vw;
+    height: 20vw;
+  }
+}
+
+@media screen and (max-width: 1017px) {
+  .video-1 {
+    width: 80vw;
+    height: 50vw;
+  }
+}
+
+@media screen and (max-width: 897px) {
+  /* episodios */
+  iframe {
+    width: 70vw;
+    height: 40vw;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .videos {
+    display: block;
+  }
+
+  .video-t1 {
+    width: 60vw;
+    height: 40vw;
+    padding-bottom: 2rem;
+  }
+
+  .video-t2 {
+    width: 60vw;
+    height: 40vw;
+    padding-bottom: 2rem;
+  }
+
+  .video-t3 {
+    width: 60vw;
+    height: 40vw;
+    padding-bottom: 2rem;
+  }
+  .video-t4 {
+    width: 60vw;
+    height: 40vw;
+    padding-bottom: 2rem;
+  }
+}
