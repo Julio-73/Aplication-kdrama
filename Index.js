@@ -31,3 +31,9 @@ ScrollReveal().reveal(".Genero-1", { origin: "left" });
 ScrollReveal().reveal(".sound", { origin: "top" });
 
 ScrollReveal().reveal(".capitulo", { origin: "top" });
+
+ScrollReveal().reveal("h1", { origin: "button" });
+
+ScrollReveal().reveal("p", { origin: "left" });
+
+

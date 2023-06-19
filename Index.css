@@ -5,12 +5,15 @@ h1 {
   font-family: "Kablammo", cursive;
   font-weight: 600;
   font-size: 4.5rem;
-
   padding-bottom: 3rem;
+ transition: 3s;
+
 }
 
 h1:hover {
-  color: rgb(190, 166, 166);
+  color: rgb(15, 26, 91);
+
+
 }
 
 .parrafo {
@@ -42,6 +45,7 @@ i {
 
 body {
   background-color: rgb(209, 89, 109);
+  color: black;
 }
 
 .div {
